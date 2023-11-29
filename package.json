@@ -59,6 +59,7 @@
     "uglifycss": "^0.0.27"
   },
   "dependencies": {
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "sass": "^1.69.5"
   }
 }
